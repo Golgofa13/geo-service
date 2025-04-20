@@ -1,0 +1,4 @@
+# Created at 2025-04-20T21:41:37.687
+Boot Manifest-JAR contains absolute paths in classpath 'E:\GIT\HW_Mockito\geo-service\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
